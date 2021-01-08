@@ -1,3 +1,16 @@
+body {
+  margin: 0; }
+
 .construction {
   display: flex;
-  justify-content: center; }
+  justify-content: center;
+  width: 17rem;
+  padding: 2rem;
+  border: 1px solid #dedede;
+  margin: 3rem auto;
+  border-radius: 8px;
+  font-size: 1.5rem;
+  font-family: sans-serif; }
+
+.img {
+  width: 40%; }
